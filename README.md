@@ -14,6 +14,7 @@
 ### <span id="id_2">Part Two: Pancreas Segmentation Papers
 Title | Date | Links |First Author| Modle(code)|
 :---- |-----:|------:|-----------:|:-----:
+Pancreas Segmentation via Spatial Context based U-net and Bidirectional LSTM | 2019 | [CORR](https://arxiv.org/vc/arxiv/papers/1903/1903.00832v1.pdf) | Hao Li | SCU-Net+BiLSTM | 
 Pancreas Segmentation in Abdominal CT Scans using Inter-/Intra-Slice Contextual Information with a Cascade Neural Network | 2019 | [EMBC](https://ieeexplore.ieee.org/abstract/document/8856774) | Zhengzheng Yang | FCN-RNN |  
 Dense attentional network for pancreas segmentation in abdominal CT scans | 2019 | [AIPR](https://dl.acm.org/doi/pdf/10.1145/3357254.3357259) | Weihao Yu | DA-Net |  
 U-Net Fixed-Point Quantization for Medical Image Segmentation | 2019 | [MICCAI](https://arxiv.org/pdf/1908.01073v2.pdf) | MohammadHossein | [U-net](https://github.com/hossein1387/U-Net-Fixed-Point-Quantization-for-Medical-Image-Segmentation) |   
